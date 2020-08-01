@@ -5,7 +5,7 @@ Welcome to my GitHub! I am Gabriel, a Computer Science student. Through self-stu
 
 ### 💻 I'm working on
 - Research project in Optimization Models and Algorithms in Industry 4.0
-- Building personanal projects and my portfolio website. 
+- Building personal projects and my portfolio website. 
 
 ### ☕ Get in touch
 - LinkedIn: <a href="https://www.linkedin.com/in/gabrielcaetanodm/" target="_blank">gabrielcaetanodm</a>
