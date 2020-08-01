@@ -1,3 +1,5 @@
+<img src="https://github.com/gabriaraujo/gabriaraujo/blob/master/banner.gif" align="right" width="300">
+
 ### Hello World! 👋
 Welcome to my GitHub! I am Gabriel, a Computer Science student. Through self-study I am building a solid foundation in both frontend and backend technologies and languages. I am currently working on a scientific research in the field of optimization, in order to propose heuristic solutions and modeling in linear programming to the Two-Dimensional Strip Packing Problem (2D-SPP), the Ore Mixing Problem (OMP) and the Unrelated Parallel Machine Schedule Problem (UPMSP).
 
